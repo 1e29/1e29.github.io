@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+code {
+  font-family: Consolas,"courier new";
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
+
+code[data-necessary="false"] {
+    color: crimson;
+}
+
+code[data-necessary="true"] {
+    color: green;
+}
+
+.Advanced {
+    background-color: #d5a6bd;
+}
+
+.Beginner {
+    background-color: #b6d7a8;
+}
+
+.Intermediate {
+    background-color: #ffe599;
+}
+
+.Expert {
+    background-color: black;
+    color: white;
+}

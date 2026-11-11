@@ -1,0 +1,566 @@
+{
+    "Inbounds": {
+        "00/01": [
+        ],
+
+        "02/03": [
+            {
+                "name": "VAG elevator skip",
+                "difficulty": "Advanced",
+                "description": "Alternative to the save glitch which saves a bit of time.",
+                "snaps": [
+                    {
+                        "value": "3e23",
+                        "necessary": "false",
+                        "description": "Snaps to -120 to easier line up the ceiling peek."
+                    },
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Snaps to 0 in order to line up for the VAG."
+                    },
+                    {
+                        "value": "3397.4818",
+                        "necessary": "true",
+                        "description": "VAG sens. Snap up once and left twice."
+                    }
+                ]
+            }
+        ],
+
+        "04/05": [
+        ],
+
+        "06/07": [
+        ],
+
+        "08": [
+        ],
+
+        "09": [
+        ],
+
+        "10": [
+        ],
+
+        "11/12": [
+        ],
+
+        "13": [
+            {
+                "name": "VAG",
+                "difficulty": "Intermediate",
+                "description": "Skips the entire map without having to move normally once.",
+                "snaps": [
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Carrot to prepare the setup. Do this while waiting for the level transition. Snap so you look straight upwards."
+                    },
+                    {
+                        "value": "3204.7508",
+                        "necessary": "true",
+                        "description": "Snap down once."
+                    },
+                    {
+                        "value": "1227.2228",
+                        "necessary": "true",
+                        "description": "Snap left once."
+                    },
+                    {
+                        "value": "4e13",
+                        "necessary": "false",
+                        "description": "Carrot that snaps to -64 to easier find the angle for the QCE."
+                    },
+                    {
+                        "value": "424.68178",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            }
+        ],
+
+        "14": [
+        ],
+
+        "15": [
+            {
+                "name": "Inbounds Under Elevator",
+                "difficulty": "Advanced",
+                "description": "Alternative to the old save glitch which takes you underneath the ending elevator.",
+                "snaps": [
+                    {
+                        "value": "9e16",
+                        "necessary": "false",
+                        "description": "Snaps to 160. Makes it a bit easier to find the angle for the QCE."
+                    },
+                    {
+                        "value": "2341.6682",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            },
+            {
+                "name": "Singularity Warp + VAG into elevator",
+                "difficulty": "Intermediate",
+                "description": "VAG straight into the elevator instead of doing a fling.",
+                "snaps": [
+                    {
+                        "value": "2341.6682",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            }
+        ],
+
+        "16": [
+        ],
+
+        "17": [
+            {
+                "name": "17 VAG",
+                "difficulty": "Beginner",
+                "description": "Takes you to the ending corridor from the main puzzle room.",
+                "snaps": [
+                    {
+                        "value": "9e14",
+                        "necessary": "false",
+                        "description": "Snaps to 88. Makes it a bit easier to find the angle for the QCE. Be careful to not accidentally go Out of Bounds from VAG clipping glitch!"
+                    },
+                    {
+                        "value": "7757.2046",
+                        "necessary": "true",
+                        "description": "VAG sensitivity. If doing Inbounds Under Elevator, perform a saveload on the same tick as doing the VAG. Lowering FPS to 30 may help."
+                    }
+                ]
+            }
+        ],
+
+        "18": [
+        ],
+
+        "19": [
+            {
+                "name": "Triple VAG",
+                "difficulty": "Intermediate",
+                "description": "Three VAGs that skips the entire map.",
+                "snaps": [
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Sets up for the second VAG."
+                    },
+                    {
+                        "value": "541.29545",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    },
+                    {
+                        "value": "5e16",
+                        "necessary": "false",
+                        "description": "Snaps to 72 to make finding the angle for the QCE easier."
+                    },
+                    {
+                        "value": "1356.5455",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            },
+            {
+                "name": "TPWW from 18",
+                "difficulty": "Advanced",
+                "description": "A save glitch and a VAG that's even faster than triple VAG.",
+                "snaps": [
+                    {
+                        "value": "6e18",
+                        "necessary": "false",
+                        "description": "Snaps to 96 to make finding the angle for the QCE easier."
+                    },
+                    {
+                        "value": "424.7",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            }
+        ],
+
+        "e00": [
+        ],
+
+        "e01": [
+        ],
+
+        "e02": [
+            {
+                "name": "e02 VAG",
+                "difficulty": "Advanced",
+                "description": "Faster and easier than preturret and regular Single AAG.",
+                "snaps": [
+                    {
+                        "value": "3e19",
+                        "necessary": "false",
+                        "description": "Snaps to 176 which makes it a bit faster to get to the QCE location. Very overkill for most people."
+                    },
+                    {
+                        "value": "5e16",
+                        "necessary": "false",
+                        "description": "Snaps to 72 to make finding the angle for the QCE easier."
+                    },
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Snap so you look straight down."
+                    },
+                    {
+                        "value": "1704.0908",
+                        "necessary": "true",
+                        "description": "Two right, one up, then shoot after getting in the corner. Walk straight forwards afterwards."
+                    }
+                ]
+            }
+        ]
+    },
+
+    "No SLA": {
+        "00/01": [
+        ],
+
+        "02/03": [
+            {
+                "name": "VAG elevator skip",
+                "difficulty": "Advanced",
+                "description": "Skips the elevator ride.",
+                "snaps": [
+                    {
+                        "value": "3e23",
+                        "necessary": "false",
+                        "description": "Snaps to -120 to easier line up the ceiling peek."
+                    },
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Snaps to 0 in order to line up for the VAG."
+                    },
+                    {
+                        "value": "3397.4818",
+                        "necessary": "true",
+                        "description": "VAG sens. Snap up once and left twice."
+                    }
+                ]
+            }
+        ],
+
+        "04/05": [
+            {
+                "name": "05 Seamshot",
+                "difficulty": "Advanced",
+                "description": "Shoots through the door instead of having to solve the puzzle.",
+                "snaps": [
+                    {
+                        "value": "2099.875",
+                        "necessary": "true",
+                        "description": "Snap left."
+                    },
+                    {
+                        "value": "6081.95",
+                        "necessary": "true",
+                        "description": "Snap left."
+                    },
+                    {
+                        "value": "605.4545",
+                        "necessary": "true",
+                        "description": "Snap down."
+                    }
+                ]
+            }
+        ],
+
+        "06/07": [
+        ],
+
+        "08": [
+        ],
+
+        "09": [
+        ],
+
+        "10": [
+        ],
+
+        "11/12": [
+            {
+                "name": "11/12 VAG",
+                "difficulty": "Advanced",
+                "description": "Skips the elevator and all of chamber 12.",
+                "snaps": [
+                    {
+                        "value": "1e11",
+                        "necessary": "false",
+                        "description": "Snaps to -40 to make the first edge glitch shot easier to find."
+                    },
+                    {
+                        "value": "2e17",
+                        "necessary": "false",
+                        "description": "Snaps to -72 to make finding the QCE angle easier."
+                    },
+                    {
+                        "value": "2341.6682",
+                        "necessary": "true",
+                        "description": "VAG sens."
+                    }
+                ]
+            }
+        ],
+
+        "13": [
+            {
+                "name": "VAG",
+                "difficulty": "Intermediate",
+                "description": "Skips the entire map without having to move normally once.",
+                "snaps": [
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Carrot to prepare the setup. Do this while waiting for the level transition. Snap so you look straight upwards."
+                    },
+                    {
+                        "value": "3204.7508",
+                        "necessary": "true",
+                        "description": "Snap down once."
+                    },
+                    {
+                        "value": "1227.2228",
+                        "necessary": "true",
+                        "description": "Snap left once."
+                    },
+                    {
+                        "value": "4e13",
+                        "necessary": "false",
+                        "description": "Carrot that snaps to -64 to easier find the angle for the QCE."
+                    },
+                    {
+                        "value": "424.68178",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            }
+        ],
+
+        "14": [
+        ],
+
+        "15": [
+            {
+                "name": "Singularity Warp + VAG",
+                "difficulty": "Intermediate",
+                "description": "VAG instead of doing a fling.",
+                "snaps": [
+                    {
+                        "value": "9e16",
+                        "necessary": "false",
+                        "description": "Helps finding the angle for the QCE if doing Companionless."
+                    },
+                    {
+                        "value": "2341.6682",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            },
+            {
+                "name": "Pancake Shot",
+                "difficulty": "Expert",
+                "description": "Saves basically no time. Lets you shoot the first portal for the swarp a few ticks earlier.",
+                "snaps": [
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Carrot so you look straight up."
+                    },
+                    {
+                        "value": "4596.7650",
+                        "necessary": "true",
+                        "description": "Snap left."
+                    },
+                    {
+                        "value": "4503.1315",
+                        "necessary": "true",
+                        "description": "Snap right."
+                    },
+                    {
+                        "value": "5181.8181",
+                        "necessary": "true",
+                        "description": "Snap down."
+                    }
+                ]
+            }
+        ],
+
+        "16": [
+            {
+                "name": "Companionless",
+                "difficulty": "Advanced",
+                "description": "Preserves a cube from 16 into 17.",
+                "snaps": [
+                    {
+                        "value": "9e16",
+                        "necessary": "false",
+                        "description": "Snaps to 160. Use to line up the exit portal while still in 15."
+                    },
+                    {
+                        "value": "5e16",
+                        "necessary": "true",
+                        "description": "Carrot to prepare for the VAG viewsnap."
+                    },
+                    {
+                        "value": "6822.3455",
+                        "necessary": "true",
+                        "description": "First VAG."
+                    },
+                    {
+                        "value": "424.71364",
+                        "necessary": "true",
+                        "description": "Second VAG."
+                    }
+                ]
+            }
+        ],
+
+        "17": [
+            {
+                "name": "17 VAG",
+                "difficulty": "Beginner",
+                "description": "Takes you to the ending corridor from the main puzzle room.",
+                "snaps": [
+                    {
+                        "value": "9e14",
+                        "necessary": "false",
+                        "description": "Snaps to 88. Makes it a bit easier to find the angle for the QCE. Be careful to not accidentally go Out of Bounds from VAG clipping glitch!"
+                    },
+                    {
+                        "value": "7757.2046",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            },
+            {
+                "name": "IL snap",
+                "difficulty": "Expert",
+                "description": "Uses a tick perfect jump input to land perfectly lined up for the seamshot. Only recommended for ILs.",
+                "snaps": [
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Snap so you look straight down."
+                    },
+                    {
+                        "value": "294.54545",
+                        "necessary": "true",
+                        "description": "Snap right once."
+                    }
+                ]
+            }
+        ],
+
+        "18": [
+        ],
+
+        "19": [
+            {
+                "name": "Triple VAG",
+                "difficulty": "Intermediate",
+                "description": "Three VAGs that skips the entire map.",
+                "snaps": [
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Sets up for the second VAG."
+                    },
+                    {
+                        "value": "541.29545",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    },
+                    {
+                        "value": "5e16",
+                        "necessary": "false",
+                        "description": "Snaps to 72 to make finding the angle for the QCE easier."
+                    },
+                    {
+                        "value": "1356.5455",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            },
+            {
+                "name": "TPWW from 18",
+                "difficulty": "Advanced",
+                "description": "A save glitch and a VAG that's even faster than triple VAG.",
+                "snaps": [
+                    {
+                        "value": "6e18",
+                        "necessary": "false",
+                        "description": "Snaps to 96 to make finding the angle for the QCE easier."
+                    },
+                    {
+                        "value": "424.7",
+                        "necessary": "true",
+                        "description": "VAG sensitivity."
+                    }
+                ]
+            }
+        ],
+
+        "e00": [
+        ],
+
+        "e01": [
+        ],
+
+        "e02": [
+            {
+                "name": "e02 VAG",
+                "difficulty": "Advanced",
+                "description": "Faster and easier than preturret and regular Single AAG.",
+                "snaps": [
+                    {
+                        "value": "3e19",
+                        "necessary": "false",
+                        "description": "Snaps to 176 which makes it a bit faster to get to the QCE location. Very overkill for most people."
+                    },
+                    {
+                        "value": "5e16",
+                        "necessary": "false",
+                        "description": "Snaps to 72 to make finding the angle for the QCE easier."
+                    },
+                    {
+                        "value": "1e29",
+                        "necessary": "true",
+                        "description": "Snap so you look straight down."
+                    },
+                    {
+                        "value": "1704.0908",
+                        "necessary": "true",
+                        "description": "Two right, one up, then shoot after getting in the corner. Walk straight forwards afterwards."
+                    }
+                ]
+            }
+        ]
+    },
+
+    "Out of Bounds": {
+
+    },
+
+    "Legacy": {
+        
+    }
+}
